@@ -1,5 +1,6 @@
 # AcapellaApp
 Website for singers to record voice, combine with background music, compare with original song with engaging visualizers and many more
+
 Music plays a central role in the entertainment industry and is a major form of artistic expression. Since today's era of internet and digitization has led to a revolution in the way music reaches its audience, there are still many things which can be improved with respect to the ways in which people interact with musical content. The ability of interacting with different parts of music (e.g. the vocals and music) would enable diverse applications such as separation of vocals and music, mixing of music and vocals and comparison of voices of different singers. 
 So, the main aim is to design an end to end web application which enables its users to perform all sorts of interactive actions like audio voice separation, record their voice,combine voice with music, voice comparison and visualization.
 # Related Work
