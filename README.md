@@ -7,6 +7,13 @@ So, the main aim is to design an end to end web application which enables its us
 There have been various previous approaches related to this, some of them are used to separate music from vocals, some are used for visualizations, some are used to record your voice and then combine it with music
 There are websites like splitter.ai, vocalremover.com, remove-vocals.com to separate vocals from music. Smule, StarMaker all these android apps are available for music vocal combiners. Staella, Audio Glow Music Visualizer, Muviz Edge are available for music visualization
 But none of these provide every feature we do. We even added a new feature comparison of user vocals with singer vocals in our website
+
+# Technologies Used
+![aa](https://user-images.githubusercontent.com/49364681/86735738-a10b2400-c050-11ea-8cd2-ecfd8219d3b6.png)
+
+# Architecture of System - User Interaction
+![archi](https://user-images.githubusercontent.com/49364681/86736295-08c16f00-c051-11ea-9292-ce4ae0e2af7e.png)
+
 # Voice Music Separator:
 Separating vocals and music is an important task to compare user voice with singer vocals or combine user song with background music. To split vocals and background music, we used spleeter which is an open source AI, specially designed to separate audio tracks known as stems.
 Spleeter is a simple tool to use and user-friendly. To know more information about spleeter click here. Spleeter can be implemented through the command line:
